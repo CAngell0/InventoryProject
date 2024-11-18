@@ -1,8 +1,12 @@
 package inventory.controller;
 
-public class Controller {
-   public Controller(){
+import inventory.view.Popup;
 
+public class Controller {
+   private Popup view;
+
+   public Controller(){
+      this.view = new Popup();
    }
 
    public void start(){
