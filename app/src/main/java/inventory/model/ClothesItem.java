@@ -25,6 +25,7 @@ public class ClothesItem {
       this.hasDesign = hasDesign;
    }
 
+   //Getters
    public String getClothesType(){
       return this.clothesType;
    }
@@ -42,6 +43,26 @@ public class ClothesItem {
    }
    public boolean getHasDesign(){
       return this.hasDesign;
+   }
+
+   //Setters
+   public void setClothesType(String clothesType){
+      this.clothesType = clothesType;
+   }
+   public void setColor(String color){
+      this.color = color;
+   }
+   public void setSize(int size){
+      this.size = size;
+   }
+   public void setPrice(double price){
+      this.price = price;
+   }
+   public void setIsMale(boolean isMale){
+      this.isMale = isMale;
+   }
+   public void setHasDesign(boolean hasDesign){
+      this.hasDesign = hasDesign;
    }
 
    @Override
