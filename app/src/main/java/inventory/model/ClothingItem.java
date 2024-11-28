@@ -1,23 +1,23 @@
 package inventory.model;
 
-public class ClothesItem {
+public class ClothingItem {
    //clothesType, size, color, isMale, hasDesign
-   private String clothesType;
+   private String clothingType;
    private String color;
    private int size;
    private double price;
    private boolean isMale;
    private boolean hasDesign;
 
-   public ClothesItem(){
-      this.clothesType = "";
+   public ClothingItem(){
+      this.clothingType = "";
       this.color = "";
       this.size = 0;
       this.isMale = false;
       this.hasDesign = false;
    }
-   public ClothesItem(String clothesType, String color, int size, double price, boolean isMale, boolean hasDesign){
-      this.clothesType = clothesType;
+   public ClothingItem(String clothingType, String color, int size, double price, boolean isMale, boolean hasDesign){
+      this.clothingType = clothingType;
       this.color = color;
       this.size = size;
       this.price = price;
@@ -26,8 +26,8 @@ public class ClothesItem {
    }
 
    //Getters
-   public String getClothesType(){
-      return this.clothesType;
+   public String getClothingType(){
+      return this.clothingType;
    }
    public String getColor(){
       return this.color;
@@ -46,8 +46,8 @@ public class ClothesItem {
    }
 
    //Setters
-   public void setClothesType(String clothesType){
-      this.clothesType = clothesType;
+   public void setClothingType(String clothesType){
+      this.clothingType = clothesType;
    }
    public void setColor(String color){
       this.color = color;
@@ -68,7 +68,7 @@ public class ClothesItem {
    @Override
    public String toString() {
       String str = "This item has the following characteristics:";
-      str += "\n\t- ClothesType: " + this.clothesType;
+      str += "\n\t- ClothesType: " + this.clothingType;
       str += "\n\t- Color: " + this.color;
       str += "\n\t- Size: " + this.size;
       str += "\n\t- Price: " + this.price;
