@@ -1,0 +1,72 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>30</x><y>350</y><w>330</w><h>280</h></coordinates><panel_attributes>FoodItem
+--
+
+- ingredients : String[] 
+- restaurant : String
+- isFastFood : Bool
+- isVegan : Bool
+- calorieCount : Int
+- price : Double
+
+--
+
++ getIngredients() : String[]
++ getRestaurant() : String
++ getIsFastFood() : Bool
++ getIsVegan() : Bool
++ getCalorieCount() : Int
++ getPrice() : Double
++ toString() : String</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>400</x><y>50</y><w>340</w><h>270</h></coordinates><panel_attributes>HospitalPerson
+--
+
+- name: String
+- gender: String
+- eyeColor: String
+- age: Int
+- roomNumber: Int
+- height: Int
+
+--
+
++ getName() : String
++ getGender() : String
++ getEyeColor() : String
++ getAge() : Int
++ getRoomNumber() :
++ toString() : String</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>400</x><y>350</y><w>340</w><h>280</h></coordinates><panel_attributes>RoomItems
+--
+
+- itemType: String
+- color: String
+- roomNumber: Int
+- count: Int
+- pricePerPackage: Double
+- isFree: Bool
+
+--
+
++ getItemType() : String
++ getColor() : String
++ getRoomNumber() : Int
++ getCount() : Int
++ getPricePerPackage() : Double
++ getIsFree() : Bool
++ toString() : String
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>30</x><y>50</y><w>330</w><h>270</h></coordinates><panel_attributes>ClothesItem
+--
+
+- clothesType : String
+- size : String
+- color : String
+- isMale : Bool
+- hasDesign : Bool
+
+--
+
++ ClothesItem() : constructor
++ getClothesType() : Sting
++ getSize() : String
++ getColor() : String
++ getIsMale(): Bool
++ getHasDesign(): Bool
++ toString() : String</panel_attributes><additional_attributes></additional_attributes></element></diagram>
