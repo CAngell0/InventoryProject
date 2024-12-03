@@ -16,10 +16,10 @@ public class Controller {
    }
 
    private void applyDiscountTo(String clothingType, double discount, ClothingItem[] clothes){
-      for (int index = 0; index < clothes.length; index++){
-         if (clothes[index].getClothingType() == clothingType){
-            double currentPrice = clothes[index].getPrice();
-            clothes[index].setPrice(currentPrice * discount);
+      for (ClothingItem item : clothes){
+         if (item.getClothingType().equals(clothingType)){
+            double currentPrice = item.getPrice();
+            item.setPrice(currentPrice * discount);
          }
       }
    }

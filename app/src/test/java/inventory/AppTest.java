@@ -8,9 +8,10 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import inventory.controller.Runner;
 
+@SuppressWarnings("unused")
 class AppTest {
     @Test void appHasAGreeting() {
-        Runner classUnderTest = new Runner();
+      Runner classUnderTest = new Runner();
       //   assertNotNull(classUnderTest.getGreeting(), "app should have a greeting");
     }
 }
