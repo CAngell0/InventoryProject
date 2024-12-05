@@ -4,7 +4,7 @@ public class ClothingItem {
    //clothesType, size, color, isMale, hasDesign
    private String clothingType;
    private String color;
-   private int size;
+   private String size;
    private double price;
    private boolean isMale;
    private boolean hasDesign;
@@ -12,11 +12,11 @@ public class ClothingItem {
    public ClothingItem(){
       this.clothingType = "";
       this.color = "";
-      this.size = 0;
+      this.size = "";
       this.isMale = false;
       this.hasDesign = false;
    }
-   public ClothingItem(String clothingType, String color, int size, double price, boolean isMale, boolean hasDesign){
+   public ClothingItem(String clothingType, String color, String size, double price, boolean isMale, boolean hasDesign){
       this.clothingType = clothingType;
       this.color = color;
       this.size = size;
@@ -32,7 +32,7 @@ public class ClothingItem {
    public String getColor(){
       return this.color;
    }
-   public int getSize(){
+   public String getSize(){
       return this.size;
    }
    public double getPrice(){
@@ -52,7 +52,7 @@ public class ClothingItem {
    public void setColor(String color){
       this.color = color;
    }
-   public void setSize(int size){
+   public void setSize(String size){
       this.size = size;
    }
    public void setPrice(double price){
