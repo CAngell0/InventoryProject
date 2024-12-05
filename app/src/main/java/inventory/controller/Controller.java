@@ -15,12 +15,20 @@ public class Controller {
       System.out.println("Hello World!");
    }
 
-   private void applyDiscountTo(String clothingType, double discount, ClothingItem[] clothes){
+   /**
+    * Applies a discount to a given type of clothing
+    * @param clothingType The type of clothing
+    * @param discount The discount to use
+    * @param clothes The array of clothing to apply discount to
+    * @return The newly discounted array of ClothesItem
+    */
+   private ClothingItem[] applyDiscountTo(String clothingType, double discount, ClothingItem[] clothes){
       for (ClothingItem item : clothes){
          if (item.getClothingType().equals(clothingType)){
             double currentPrice = item.getPrice();
             item.setPrice(currentPrice * discount);
          }
       }
+      return clothes;
    }
 }
