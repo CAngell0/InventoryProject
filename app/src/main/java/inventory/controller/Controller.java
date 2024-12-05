@@ -4,6 +4,7 @@ import inventory.view.Popup;
 
 import inventory.model.ClothingItem;
 import inventory.model.HospitalFood;
+import inventory.model.HospitalPatient;
 
 import java.util.ArrayList;
 
@@ -65,6 +66,16 @@ public class Controller {
 
       for (HospitalFood foodItem : food){
          if (foodItem.getIsVegan()) count++;
+      }
+
+      return count;
+   }
+
+   private int countPatientsInAgeRange(int minAge, int maxAge, HospitalPatient[] patients){
+      int count = 0;
+      
+      for (HospitalPatient patient : patients){
+         if (patient.getAge() >= minAge && patient.getAge() <= maxAge) count++;
       }
 
       return count;
