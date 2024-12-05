@@ -87,14 +87,16 @@ public class IOController {
             patientLine = fileScanner.nextLine();
             String[] lineContents = patientLine.split(",");
 
-            patients.add(new HospitalPatient(
-               lineContents[0],
-               lineContents[1],
-               Boolean.parseBoolean(lineContents[2]),
-               Integer.parseInt(lineContents[3]),
-               Integer.parseInt(lineContents[4]),
-               Double.parseDouble(lineContents[5])
-            ));
+            HospitalPatient currentPatient = new HospitalPatient();
+
+            currentPatient.setName(lineContents[0]);
+            currentPatient.setEyeColor(lineContents[1]);
+            currentPatient.setIsMale(Boolean.parseBoolean(lineContents[2]));
+            currentPatient.setAge(Integer.parseInt(lineContents[3]));
+            currentPatient.setRoomNumber(Integer.parseInt(lineContents[4]));
+            currentPatient.setPriceOfStay(Double.parseDouble(lineContents[5]));
+
+            patients.add(currentPatient);
          }
       } catch (FileNotFoundException error){
          System.out.println("Error reading hospital patients");
