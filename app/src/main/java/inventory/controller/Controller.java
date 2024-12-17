@@ -18,7 +18,9 @@ public class Controller {
    }
 
    public void start(){
-      System.out.println("Hello World!");
+      view.displayMessage("Verify that files load!");
+      ArrayList<ClothingItem> clothes = IOController.readClothingItemsFromFile("./ClothingItems.csv");
+      view.displayMessage("Loaded " + clothes.size() + " items.");
    }
 
    /**
@@ -31,7 +33,7 @@ public class Controller {
       for (ClothingItem currentClothingItem : clothes){
          if (currentClothingItem.getClothingType().equalsIgnoreCase(clothingType)){
             double currentPrice = currentClothingItem.getPrice();
-            currentPrice = currentPrice * discount;
+            currentPrice = currentPrice - (currentPrice * discount);
             currentClothingItem.setPrice(currentPrice);
          }
       }
@@ -47,7 +49,7 @@ public class Controller {
       for (HospitalFood currentFood : hospitalFood){
          if (currentFood.getFoodName().equalsIgnoreCase(foodName)){
             double currentPrice = currentFood.getPrice();
-            currentPrice = currentPrice * discount;
+            currentPrice = currentPrice - (currentPrice * discount);
             currentFood.setPrice(currentPrice);
          }
       }
@@ -64,7 +66,7 @@ public class Controller {
       for (HospitalPatient currentPatient : hospitalPatients){
          if (currentPatient.getAge() >= minAge && currentPatient.getAge() <= maxAge){
             double currentPrice = currentPatient.getPriceOfStay();
-            currentPrice = currentPrice * discount;
+            currentPrice = currentPrice - (currentPrice * discount);
             currentPatient.setPriceOfStay(currentPrice);
          }
       }
@@ -115,5 +117,49 @@ public class Controller {
       }
 
       return count;
+   }
+
+   /**
+    * Gets the average price of all clothes from a specified ClothingItem array
+    * @param clothes The array to calculate an average from
+    * @return An average price
+    */
+   private double getAverageClothingPrice(ClothingItem[] clothes){
+      double average = 0.0;
+
+      for (ClothingItem item : clothes) average += item.getPrice();
+      average = average / clothes.length;
+
+      return average;
+   }
+
+   /**
+    * Gets the smallest price of the items in a given ClothingItem array
+    * @param clothes The array to get the minimum price from
+    * @return The minimum price
+    */
+   private double getMinClothingPrice(ClothingItem[] clothes){
+      double min = Double.MAX_VALUE;
+
+      for (ClothingItem item : clothes){
+         if (item.getPrice() < min) min = item.getPrice();
+      }
+
+      return min;
+   }
+
+   /**
+    * Gets the largest price of the items in a given ClothingItem array
+    * @param clothes The array to get the maximum price from
+    * @return The maximum price
+    */
+   private double getMaxClothingPrice(ClothingItem[] clothes){
+      double max = Double.MIN_VALUE;
+
+      for (ClothingItem item : clothes){
+         if (item.getPrice() > max) max = item.getPrice();
+      }
+
+      return max;
    }
 }
