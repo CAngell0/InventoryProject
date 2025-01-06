@@ -1,8 +1,8 @@
-package inventory.controller.types;
+package inventory.controller.typeManipulation;
 
 import inventory.model.HospitalPatient;
 
-public class HospitalPatientList {
+public class HospitalPatientHelpers {
 
    /**
     * Count the amount of patients in a certain age range
@@ -11,7 +11,7 @@ public class HospitalPatientList {
     * @param patients The array of patients to search in
     * @return A count of patients that are within the designated age range
     */
-   private int countPatientsInAgeRange(int minAge, int maxAge, HospitalPatient[] patients){
+   public int countPatientsInAgeRange(int minAge, int maxAge, HospitalPatient[] patients){
       if (patients.length == 0) return 0;
       int count = 0;
       
@@ -27,7 +27,7 @@ public class HospitalPatientList {
     * @param patients The array to calculate an average from
     * @return An average price
     */
-    private double getAveragePriceOfStay(HospitalPatient[] patients){
+   public double getAveragePriceOfStay(HospitalPatient[] patients){
       if (patients.length == 0) return 0.0;
       double average = 0.0;
 
@@ -44,7 +44,7 @@ public class HospitalPatientList {
     * @param patients The array to get the minimum price of stay from
     * @return The minimum price
     */
-    private double getMinPriceOfStay(HospitalPatient[] patients){
+   public double getMinPriceOfStay(HospitalPatient[] patients){
       if (patients.length == 0) return 0.0;
       double min = Double.MAX_VALUE;
 
@@ -60,7 +60,7 @@ public class HospitalPatientList {
     * @param patients The array to get the maximum price from
     * @return The maximum price
     */
-   private double getMaxPriceOfStay(HospitalPatient[] patients){
+   public double getMaxPriceOfStay(HospitalPatient[] patients){
       if (patients.length == 0) return 0.0;
       double max = Double.MIN_VALUE;
 

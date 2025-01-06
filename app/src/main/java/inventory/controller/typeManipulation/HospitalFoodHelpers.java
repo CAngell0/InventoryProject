@@ -1,8 +1,8 @@
-package inventory.controller.types;
+package inventory.controller.typeManipulation;
 
 import inventory.model.HospitalFood;
 
-public class HospitalFoodList {
+public class HospitalFoodHelpers {
 
    /**
     * Count the amount of food that matches a specific food type
@@ -10,7 +10,7 @@ public class HospitalFoodList {
     * @param food The array of hospital food items to search in
     * @return A count of how many food items of that type are in the array
     */
-    private int countFoodType(String foodName, HospitalFood[] food){
+   public int countFoodType(String foodName, HospitalFood[] food){
       int count = 0;
 
       for (HospitalFood foodItem : food){
@@ -25,7 +25,7 @@ public class HospitalFoodList {
     * @param food The array to calculate an average from
     * @return An average price
     */
-    private double getAverageFoodPrice(HospitalFood[] food){
+   public double getAverageFoodPrice(HospitalFood[] food){
       if (food.length == 0) return 0.0;
       double average = 0.0;
 
@@ -42,7 +42,7 @@ public class HospitalFoodList {
     * @param food The array to get the minimum price from
     * @return The minimum price
     */
-    private double getMinFoodPrice(HospitalFood[] food){
+   public double getMinFoodPrice(HospitalFood[] food){
       if (food.length == 0) return 0.0;
       double min = Double.MAX_VALUE;
 
@@ -58,7 +58,7 @@ public class HospitalFoodList {
     * @param food The array to get the maximum price from
     * @return The maximum price
     */
-   private double getMaxFoodPrice(HospitalFood[] food){
+   public double getMaxFoodPrice(HospitalFood[] food){
       if (food.length == 0) return 0.0;
       double max = Double.MIN_VALUE;
 

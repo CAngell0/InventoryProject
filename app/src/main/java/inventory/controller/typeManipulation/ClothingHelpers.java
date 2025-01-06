@@ -1,8 +1,8 @@
-package inventory.controller.types;
+package inventory.controller.typeManipulation;
 
 import inventory.model.ClothingItem;
 
-public class ClothingList {
+public class ClothingHelpers {
 
    /**
     * Counts the amount of clothe items that are of a specific type
@@ -10,7 +10,7 @@ public class ClothingList {
     * @param clothes Array of clothes
     * @return An integer count of the clothing type
     */
-    private int countClothingType(String type, ClothingItem[] clothes){
+   public int countClothingType(String type, ClothingItem[] clothes){
       int count = 0;
       for (ClothingItem item: clothes){
          if (item.getClothingType().equalsIgnoreCase(type)) count++;
@@ -23,7 +23,7 @@ public class ClothingList {
     * @param clothes The array to calculate an average from
     * @return An average price
     */
-    private double getAverageClothingPrice(ClothingItem[] clothes){
+   public double getAverageClothingPrice(ClothingItem[] clothes){
       if (clothes.length == 0) return 0.0;
       double average = 0.0;
 
@@ -40,7 +40,7 @@ public class ClothingList {
     * @param clothes The array to get the minimum price from
     * @return The minimum price
     */
-    private double getMinClothingPrice(ClothingItem[] clothes){
+   public double getMinClothingPrice(ClothingItem[] clothes){
       if (clothes.length == 0) return 0.0;
       double min = Double.MAX_VALUE;
 
@@ -56,7 +56,7 @@ public class ClothingList {
     * @param clothes The array to get the maximum price from
     * @return The maximum price
     */
-   private double getMaxClothingPrice(ClothingItem[] clothes){
+   public double getMaxClothingPrice(ClothingItem[] clothes){
       if (clothes.length == 0) return 0.0;
       double max = Double.MIN_VALUE;
 
