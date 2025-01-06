@@ -10,6 +10,13 @@ import java.util.ArrayList;
 
 import com.google.common.net.HostAndPort;
 
+//todo - Reporting for each type
+//    Min
+//    Max
+//    Average
+//    Count
+//    Discount
+
 public class Controller {
    private Popup view;
 
@@ -72,94 +79,4 @@ public class Controller {
       }
    }
 
-   /**
-    * Counts the amount of clothe items that are of a specific type
-    * @param type The type to search by
-    * @param clothes Array of clothes
-    * @return An integer count of the clothing type
-    */
-   private int countClothingType(String type, ClothingItem[] clothes){
-      int count = 0;
-      for (ClothingItem item: clothes){
-         if (item.getClothingType().equalsIgnoreCase(type)) count++;
-      }
-      return count;
-   }
-
-   /**
-    * Count the amount of food that matches a specific food type
-    * @param foodName The name of the food to query by
-    * @param food The array of hospital food items to search in
-    * @return A count of how many food items of that type are in the array
-    */
-   private int countFoodType(String foodName, HospitalFood[] food){
-      int count = 0;
-
-      for (HospitalFood foodItem : food){
-         if (foodItem.getFoodName().equalsIgnoreCase(foodName)) count++;
-      }
-
-      return count;
-   }
-
-   /**
-    * Count the amount of patients in a certain age range
-    * @param minAge The minimum age to search by
-    * @param maxAge The maximum age to search by
-    * @param patients The array of patients to search in
-    * @return A count of patients that are within the designated age range
-    */
-   private int countPatientsInAgeRange(int minAge, int maxAge, HospitalPatient[] patients){
-      int count = 0;
-      
-      for (HospitalPatient patient : patients){
-         if (patient.getAge() >= minAge && patient.getAge() <= maxAge) count++;
-      }
-
-      return count;
-   }
-
-   /**
-    * Gets the average price of all clothes from a specified ClothingItem array
-    * @param clothes The array to calculate an average from
-    * @return An average price
-    */
-   private double getAverageClothingPrice(ClothingItem[] clothes){
-      double average = 0.0;
-
-      for (ClothingItem item : clothes) average += item.getPrice();
-      average = average / clothes.length;
-
-      return average;
-   }
-
-   /**
-    * Gets the smallest price of the items in a given ClothingItem array
-    * @param clothes The array to get the minimum price from
-    * @return The minimum price
-    */
-   private double getMinClothingPrice(ClothingItem[] clothes){
-      double min = Double.MAX_VALUE;
-
-      for (ClothingItem item : clothes){
-         if (item.getPrice() < min) min = item.getPrice();
-      }
-
-      return min;
-   }
-
-   /**
-    * Gets the largest price of the items in a given ClothingItem array
-    * @param clothes The array to get the maximum price from
-    * @return The maximum price
-    */
-   private double getMaxClothingPrice(ClothingItem[] clothes){
-      double max = Double.MIN_VALUE;
-
-      for (ClothingItem item : clothes){
-         if (item.getPrice() > max) max = item.getPrice();
-      }
-
-      return max;
-   }
 }
