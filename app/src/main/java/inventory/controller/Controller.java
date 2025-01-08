@@ -36,11 +36,18 @@ public class Controller {
    }
 
    public void start(){
-      view.displayMessage("Verify that files load!");
       // ArrayList<ClothingItem> clothes = IOController.readClothingItemsFromFile("./ClothingItems.csv");
       ClothingItem[] clothes = IOController.readClothingItemsFromFile("./ClothingItems.csv");
       HospitalFood[] hospitalFood = IOController.readHospitalFoodFromFile("./HospitalFood.csv");
       HospitalPatient[] hospitalPatients = IOController.readHospitalPatientsFromFile("./HospitalPatients.csv");
+
+      String clothesReport = reportClothingItems("Pants", clothes);
+      String foodReport = reportFoodItems("Grilled Chicken", hospitalFood);
+      String patientReport = reportPatientItems(10, 20, hospitalPatients);
+
+      view.displayMessage(clothesReport);
+      view.displayMessage(foodReport);
+      view.displayMessage(patientReport);
    }
 
    /**
