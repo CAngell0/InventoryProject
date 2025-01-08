@@ -14,7 +14,7 @@ public class IOController {
     * @param path File path to CSV dataset
     * @return A list of ClothingItem
     */
-   public static ArrayList<ClothingItem> readClothingItemsFromFile(String path){
+   public static ClothingItem[] readClothingItemsFromFile(String path){
       ArrayList<ClothingItem> clothes = new ArrayList<ClothingItem>();
 
       try (Scanner fileScanner = new Scanner(new File(path))){
@@ -38,7 +38,12 @@ public class IOController {
          System.err.println(error.getMessage());
       }
 
-      return clothes;
+      ClothingItem[] returnedClothes = new ClothingItem[clothes.size()];
+      for (int index = 0; index < clothes.size(); index++){
+         returnedClothes[index] = clothes.get(index);
+      }
+
+      return returnedClothes;
    }
 
    /**
@@ -46,7 +51,7 @@ public class IOController {
     * @param path File path to CSV dataset
     * @return A list of HospitalFood
     */
-    public static ArrayList<HospitalFood> readHospitalFoodFromFile(String path){
+    public static HospitalFood[] readHospitalFoodFromFile(String path){
       ArrayList<HospitalFood> hospitalFood = new ArrayList<HospitalFood>();
 
       try (Scanner fileScanner = new Scanner(new File(path))){
@@ -69,7 +74,12 @@ public class IOController {
          System.err.println(error.getMessage());
       }
 
-      return hospitalFood;
+      HospitalFood[] returnedFood = new HospitalFood[hospitalFood.size()];
+      for (int index = 0; index < hospitalFood.size(); index++){
+         returnedFood[index] = hospitalFood.get(index);
+      }
+
+      return returnedFood;
    }
 
    /**
@@ -77,7 +87,7 @@ public class IOController {
     * @param path File path to CSV dataset
     * @return A list of ClothingItem
     */
-    public static ArrayList<HospitalPatient> readHospitalPatientsFromFile(String path){
+    public static HospitalPatient[] readHospitalPatientsFromFile(String path){
       ArrayList<HospitalPatient> patients = new ArrayList<HospitalPatient>();
 
       try (Scanner fileScanner = new Scanner(new File(path))){
@@ -103,6 +113,11 @@ public class IOController {
          System.err.println(error.getMessage());
       }
 
-      return patients;
+      HospitalPatient[] returnedPatients = new HospitalPatient[patients.size()];
+      for (int index = 0; index < patients.size(); index++){
+         returnedPatients[index] = patients.get(index);
+      }
+
+      return returnedPatients;
    }
 }

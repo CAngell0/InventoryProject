@@ -38,8 +38,9 @@ public class Controller {
    public void start(){
       view.displayMessage("Verify that files load!");
       // ArrayList<ClothingItem> clothes = IOController.readClothingItemsFromFile("./ClothingItems.csv");
-      ArrayList<HospitalPatient> clothes = IOController.readHospitalPatientsFromFile("./HospitalPatients.csv");
-      view.displayMessage("Loaded " + clothes.size() + " items.");
+      ClothingItem[] clothes = IOController.readClothingItemsFromFile("./ClothingItems.csv");
+      HospitalFood[] hospitalFood = IOController.readHospitalFoodFromFile("./HospitalFood.csv");
+      HospitalPatient[] hospitalPatients = IOController.readHospitalPatientsFromFile("./HospitalPatients.csv");
    }
 
    /**
