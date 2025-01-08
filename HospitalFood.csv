@@ -1,0 +1,701 @@
+name,ingredients,calories,isVegan,price
+Grilled Chicken Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,320,FALSE,6.99
+Vegan Lentil Soup,Lentils-carrots-celery-onions-garlic-tomato,380,TRUE,4.99
+Roast Beef Sandwich,Roast beef-whole grain bread-lettuce-tomato-mustard,520,FALSE,5.49
+Vegan Quinoa Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,340,TRUE,6.49
+Chicken Caesar Wrap,Grilled chicken-romaine lettuce-Caesar dressing-wrap,450,FALSE,5.99
+Vegetable Stir Fry,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,350,TRUE,7.99
+Egg Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,420,FALSE,4.49
+Vegan Buddha Bowl,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,500,TRUE,8.99
+Beef Chili,Ground beef-tomatoes-beans-onions-chili powder,430,FALSE,5.79
+Vegan Hummus Plate,Hummus-cucumber-carrot sticks-pita bread-olives,400,TRUE,5.29
+Grilled Salmon,Salmon-lemon-olive oil-parsley,400,FALSE,9.99
+Tofu Scramble,Tofu-spinach-mushrooms-onions-turmeric-black beans,350,TRUE,5.49
+Turkey and Cheese Sandwich,Turkey-cheddar cheese-whole wheat bread-lettuce-tomato,550,FALSE,5.79
+Vegetable Soup,Carrots-celery-onions-garlic-potatoes-spinach,350,TRUE,4.99
+Chicken Tenders,Chicken breast-breading-oil-honey mustard,560,FALSE,6.49
+Vegan Falafel Wrap,Falafel-lettuce-tomato-cucumber-tahini-wrap,380,TRUE,6.49
+Pasta Primavera,Pasta-broccoli-carrots-bell peppers-olive oil-garlic,450,TRUE,6.99
+Beef Burrito,Ground beef-rice-beans-cheese-salsa-tortilla,620,FALSE,7.49
+Vegan Black Bean Tacos,Black beans-corn-avocado-salsa-corn tortillas,380,TRUE,5.99
+Eggplant Parmesan,Eggplant-marinara sauce-mozzarella-breadcrumbs,400,TRUE,7.49
+Grilled Chicken Wrap,Grilled chicken-lettuce-tomato-cucumber-wrap,400,FALSE,5.99
+Vegan Shepherd's Pie,Lentils-peas-carrots-potatoes-vegan gravy,500,TRUE,7.99
+Chicken and Rice,Chicken-rice-peas-carrots-soy sauce,520,FALSE,6.49
+Veggie Burger,Black beans-quinoa-vegetables-whole wheat bun-avocado,420,TRUE,6.99
+Vegan Pizza,Tomato sauce-vegan cheese-bell peppers-mushrooms-spinach,700,TRUE,8.49
+Beef and Broccoli,Beef-broccoli-soy sauce-garlic-ginger-rice,500,FALSE,7.99
+Cabbage Stir Fry,Cabbage-carrots-tofu-soy sauce-ginger-rice,450,TRUE,6.29
+Chicken Parmesan,Chicken-marinara sauce-mozzarella-parmesan-spaghetti,650,FALSE,8.49
+Vegan Pad Thai,Rice noodles-tofu-peanuts-lime-soy sauce-carrots,400,TRUE,7.49
+Grilled Cheese Sandwich,Cheddar cheese-white bread-butter,500,FALSE,4.99
+Vegan Mushroom Risotto,Arborio rice-mushrooms-vegetable broth-garlic-onions,450,TRUE,7.99
+BBQ Chicken Sandwich,BBQ sauce-chicken-coleslaw-whole grain bun,550,FALSE,6.49
+Vegan Tacos,Black beans-corn-avocado-salsa-corn tortillas,380,TRUE,5.49
+Chicken Fried Rice,Chicken-rice-peas-carrots-soy sauce-eggs,600,FALSE,6.99
+Vegan Burrito,Black beans-rice-avocado-salsa-lettuce-tortilla,520,TRUE,7.49
+Salmon Salad,Salmon-lettuce-cucumber-tomato-lemon dressing,350,FALSE,9.99
+Grilled Veggie Wrap,Zucchini-peppers-eggplant-hummus-wrap,420,TRUE,6.29
+Chicken Quesadilla,Chicken-cheese-tortillas-salsa-sour cream,600,FALSE,6.49
+Vegan Chia Pudding,Chia seeds-almond milk-maple syrup-vanilla-berries,300,TRUE,4.99
+Pasta with Marinara,Pasta-marinara sauce-garlic-basil-olive oil,350,TRUE,5.99
+Chicken Soup,Chicken-carrots-celery-onions-broth-noodles,390,FALSE,4.79
+Vegan Chili,Black beans-kidney beans-tomatoes-chili powder-onions,460,TRUE,5.79
+Shrimp and Rice, shrimp-rice-peas-carrots-soy sauce,540,FALSE,8.99
+Tofu Stir Fry,Tofu-broccoli-peppers-onions-soy sauce-garlic,470,TRUE,7.49
+Vegan Bolognese,Lentils-tomatoes-garlic-onion-olive oil-spaghetti,520,TRUE,7.99
+Turkey Meatballs,Ground turkey-breadcrumbs-marinara sauce-spaghetti,480,FALSE,6.49
+Vegan Avocado Toast,Avocado-whole wheat bread-cherry tomatoes-arugula,380,TRUE,5.49
+Chicken Caesar Salad,Grilled chicken-romaine lettuce-Caesar dressing-croutons,510,FALSE,7.99
+Vegan Sweet Potato Curry,Sweet potatoes-coconut milk-curry paste-chickpeas-rice,600,TRUE,8.49
+Beef Steak and Vegetables,Beef-potatoes-carrots-broccoli-garlic,700,FALSE,10.99
+Vegan Sushi Rolls,Avocado-cucumber-carrots-rice-seaweed,420,TRUE,8.99
+Chicken Stir Fry,Chicken-bell peppers-onions-soy sauce-rice,560,FALSE,6.49
+Vegan Sweet and Sour Tofu,Tofu-bell peppers-onions-pineapple-soy sauce,550,TRUE,7.49
+Vegetable Frittata,Spinach-mushrooms-tomatoes-eggs-cheese,480,TRUE,5.99
+Vegan Tofu Scramble,Tofu-spinach-tomatoes-onions-turmeric-black beans,350,TRUE,5.49
+Chicken Pot Pie,Chicken-peas-carrots-potatoes-pie crust,600,FALSE,7.49
+Vegan Mac and Cheese,Macaroni-cashews-nutritional yeast-garlic-onion,350,TRUE,6.99
+Pulled Pork Sandwich,Pulled pork-BBQ sauce-coleslaw-bun,650,FALSE,7.99
+Vegan Gravy with Mashed Potatoes,Mashed potatoes-vegetable broth-mushrooms-garlic,500,TRUE,6.49
+Chicken Fajitas,Chicken-bell peppers-onions-salsa-tortillas,550,FALSE,7.49
+Vegan Tofu Tacos,Tofu-avocado-salsa-lettuce-corn tortillas,400,TRUE,6.29
+Beef Tacos,Ground beef-lettuce-tomato-cheese-tortillas,500,FALSE,5.99
+Vegan Cabbage Rolls,Cabbage-rice-lentils-tomatoes-garlic,450,TRUE,6.79
+Chicken and Vegetable Skewers,Chicken-peppers-onions-zucchini-olive oil-garlic,500,FALSE,7.99
+Vegan Pizza,Tomato sauce-vegan cheese-bell peppers-mushrooms-spinach,750,TRUE,8.99
+Grilled Chicken,Chicken-olive oil-garlic-lemon-rosemary,300,FALSE,6.49
+Vegan Sweet Potato Fries,Sweet potatoes-olive oil-paprika-garlic powder,450,TRUE,4.99
+Steak and Potatoes,Beef steak-potatoes-garlic butter-broccoli,750,FALSE,9.99
+Vegan Quinoa Chili,Quinoa-black beans-tomatoes-onions-chili powder,550,TRUE,7.49
+Roast Chicken,Chicken-rosemary-garlic-lemon-potatoes,600,FALSE,8.99
+Vegan Pasta Salad,Pasta-cucumber-bell peppers-olives-tomatoes-olive oil,350,TRUE,5.99
+Grilled Chicken Breast,Chicken-olive oil-lemon-rosemary,320,FALSE,5.99
+Vegetarian Burrito,Brown rice-black beans-avocado-salsa-tortilla,600,TRUE,7.99
+Vegan Potato Salad,Potatoes-vegan mayo-celery-mustard-onion,450,TRUE,4.99
+Chicken Wrap,Grilled chicken-spinach-tomato-wrap,350,FALSE,5.49
+Vegetarian Lasagna,Noodles-ricotta cheese-spinach-marinara sauce-mozzarella,500,TRUE,7.99
+Grilled Veggie Skewers,Zucchini-bell peppers-onions-mushrooms-olive oil,450,TRUE,6.49
+BBQ Veggie Burger,Black beans-quinoa-oats-BBQ sauce-lettuce-tomato,500,TRUE,6.99
+Chicken Wings,Chicken wings-BBQ sauce-honey-garlic,700,FALSE,8.99
+Vegan Tofu Curry,Tofu-coconut milk-curry paste-vegetables-rice,580,TRUE,7.49
+Chicken and Mashed Potatoes,Chicken-mashed potatoes-gravy-green beans,650,FALSE,7.99
+Vegan Roasted Cauliflower,Cauliflower-olive oil-garlic-paprika-turmeric,300,TRUE,5.49
+Chicken and Vegetable Soup,Chicken-carrots-celery-onions-broth-vegetables,350,FALSE,4.99
+Vegan Avocado Pesto Pasta,Avocado-basil-lemon-garlic-pasta,500,TRUE,7.99
+Vegan Taco Salad,Black beans-corn-avocado-lettuce-tomato-salsa,450,TRUE,6.49
+Chicken and Quinoa,Chicken-quinoa-spinach-olive oil-garlic,480,FALSE,6.99
+Tofu and Vegetable Stir Fry,Tofu-broccoli-carrots-bell peppers-soy sauce,450,TRUE,7.49
+Roast Beef Sandwich,Grilled chicken-romaine lettuce-Caesar dressing-wrap,760,FALSE,3.34
+Grilled Chicken Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,250,FALSE,4.85
+Vegan Lentil Soup,Ground beef-tomatoes-beans-onions-chili powder,610,FALSE,0.44
+Beef Chili,Hard-boiled eggs-mayo-mustard-celery-lettuce,230,FALSE,8.15
+Egg Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,670,FALSE,3.94
+Roast Beef Sandwich,Grilled chicken-lettuce-tomato-cucumber-dressing,340,FALSE,3.04
+Vegan Buddha Bowl,Lentils-carrots-celery-onions-garlic-tomato,720,FALSE,7.92
+Egg Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,580,FALSE,7.22
+Egg Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,650,FALSE,4.68
+Chicken Caesar Wrap,Grilled chicken-romaine lettuce-Caesar dressing-wrap,1000,FALSE,3.64
+Vegan Lentil Soup,Lentils-carrots-celery-onions-garlic-tomato,710,FALSE,3.32
+Vegan Lentil Soup,Lentils-carrots-celery-onions-garlic-tomato,180,FALSE,5.80
+Roast Beef Sandwich,Ground beef-tomatoes-beans-onions-chili powder,880,FALSE,2.55
+Vegan Lentil Soup,Hard-boiled eggs-mayo-mustard-celery-lettuce,220,FALSE,3.76
+Roast Beef Sandwich,Roast beef-whole grain bread-lettuce-tomato-mustard,230,FALSE,9.25
+Vegan Lentil Soup,Lentils-carrots-celery-onions-garlic-tomato,580,FALSE,4.60
+Vegan Quinoa Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,810,FALSE,0.38
+Chicken Caesar Wrap,Grilled chicken-lettuce-tomato-cucumber-dressing,710,FALSE,1.36
+Vegetable Stir Fry,Lentils-carrots-celery-onions-garlic-tomato,480,FALSE,4.74
+Roast Beef Sandwich,Hard-boiled eggs-mayo-mustard-celery-lettuce,180,FALSE,3.33
+Vegetable Stir Fry,Grilled chicken-romaine lettuce-Caesar dressing-wrap,900,FALSE,2.88
+Roast Beef Sandwich,Roast beef-whole grain bread-lettuce-tomato-mustard,880,FALSE,5.04
+Beef Chili,Lentils-carrots-celery-onions-garlic-tomato,540,FALSE,4.42
+Vegan Lentil Soup,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,380,FALSE,4.24
+Egg Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,610,FALSE,4.12
+Vegan Lentil Soup,Hard-boiled eggs-mayo-mustard-celery-lettuce,650,FALSE,1.11
+Vegan Quinoa Salad,Lentils-carrots-celery-onions-garlic-tomato,200,FALSE,4.32
+Vegan Quinoa Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,330,FALSE,3.11
+Egg Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,300,FALSE,5.01
+Vegan Quinoa Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,160,FALSE,8.52
+Beef Chili,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,750,FALSE,3.34
+Vegan Lentil Soup,Ground beef-tomatoes-beans-onions-chili powder,170,FALSE,5.53
+Vegetable Stir Fry,Hard-boiled eggs-mayo-mustard-celery-lettuce,140,FALSE,7.13
+Roast Beef Sandwich,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,500,FALSE,3.64
+Vegan Quinoa Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,130,FALSE,7.28
+Beef Chili,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,300,FALSE,8.34
+Chicken Caesar Wrap,Ground beef-tomatoes-beans-onions-chili powder,720,FALSE,9.34
+Chicken Caesar Wrap,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,970,FALSE,2.57
+Roast Beef Sandwich,Ground beef-tomatoes-beans-onions-chili powder,800,FALSE,6.62
+Vegan Lentil Soup,Lentils-carrots-celery-onions-garlic-tomato,200,FALSE,7.46
+Chicken Caesar Wrap,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,260,FALSE,4.84
+Chicken Caesar Wrap,Roast beef-whole grain bread-lettuce-tomato-mustard,380,FALSE,7.99
+Chicken Caesar Wrap,Grilled chicken-romaine lettuce-Caesar dressing-wrap,810,FALSE,0.23
+Beef Chili,Grilled chicken-romaine lettuce-Caesar dressing-wrap,130,FALSE,3.60
+Egg Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,110,FALSE,9.37
+Egg Salad,Lentils-carrots-celery-onions-garlic-tomato,290,FALSE,1.43
+Vegan Buddha Bowl,Ground beef-tomatoes-beans-onions-chili powder,390,FALSE,4.49
+Egg Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,470,FALSE,7.00
+Roast Beef Sandwich,Grilled chicken-lettuce-tomato-cucumber-dressing,970,FALSE,5.73
+Egg Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,430,FALSE,9.33
+Vegan Quinoa Salad,Ground beef-tomatoes-beans-onions-chili powder,890,FALSE,1.56
+Vegan Buddha Bowl,Lentils-carrots-celery-onions-garlic-tomato,310,FALSE,0.54
+Vegetable Stir Fry,Grilled chicken-romaine lettuce-Caesar dressing-wrap,870,FALSE,5.81
+Egg Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,620,FALSE,3.32
+Vegetable Stir Fry,Ground beef-tomatoes-beans-onions-chili powder,240,FALSE,0.98
+Egg Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,830,FALSE,8.36
+Vegetable Stir Fry,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,320,FALSE,8.99
+Vegan Buddha Bowl,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,260,FALSE,0.59
+Beef Chili,Ground beef-tomatoes-beans-onions-chili powder,590,FALSE,5.97
+Roast Beef Sandwich,Lentils-carrots-celery-onions-garlic-tomato,360,FALSE,3.57
+Chicken Caesar Wrap,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,780,FALSE,4.99
+Vegetable Stir Fry,Grilled chicken-lettuce-tomato-cucumber-dressing,300,FALSE,0.51
+Roast Beef Sandwich,Lentils-carrots-celery-onions-garlic-tomato,890,FALSE,9.44
+Beef Chili,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,930,FALSE,4.44
+Roast Beef Sandwich,Ground beef-tomatoes-beans-onions-chili powder,750,FALSE,9.88
+Grilled Chicken Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,820,FALSE,7.29
+Egg Salad,Ground beef-tomatoes-beans-onions-chili powder,450,FALSE,5.35
+Vegan Lentil Soup,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,460,FALSE,2.99
+Vegan Buddha Bowl,Grilled chicken-romaine lettuce-Caesar dressing-wrap,740,FALSE,6.52
+Chicken Caesar Wrap,Grilled chicken-romaine lettuce-Caesar dressing-wrap,590,FALSE,6.76
+Vegan Quinoa Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,980,FALSE,7.32
+Vegetable Stir Fry,Grilled chicken-lettuce-tomato-cucumber-dressing,940,FALSE,4.07
+Beef Chili,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,690,FALSE,4.20
+Roast Beef Sandwich,Lentils-carrots-celery-onions-garlic-tomato,610,FALSE,7.18
+Vegan Quinoa Salad,Ground beef-tomatoes-beans-onions-chili powder,300,FALSE,0.42
+Roast Beef Sandwich,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,160,FALSE,5.35
+Vegetable Stir Fry,Grilled chicken-romaine lettuce-Caesar dressing-wrap,360,FALSE,8.08
+Roast Beef Sandwich,Lentils-carrots-celery-onions-garlic-tomato,890,FALSE,0.31
+Vegan Quinoa Salad,Lentils-carrots-celery-onions-garlic-tomato,560,FALSE,1.46
+Chicken Caesar Wrap,Grilled chicken-romaine lettuce-Caesar dressing-wrap,940,FALSE,1.13
+Beef Chili,Grilled chicken-romaine lettuce-Caesar dressing-wrap,740,FALSE,5.83
+Vegetable Stir Fry,Lentils-carrots-celery-onions-garlic-tomato,160,FALSE,9.12
+Vegan Quinoa Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,170,FALSE,0.27
+Grilled Chicken Salad,Ground beef-tomatoes-beans-onions-chili powder,260,FALSE,3.46
+Roast Beef Sandwich,Ground beef-tomatoes-beans-onions-chili powder,420,FALSE,7.35
+Egg Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,310,FALSE,2.75
+Chicken Caesar Wrap,Hard-boiled eggs-mayo-mustard-celery-lettuce,790,FALSE,6.83
+Beef Chili,Hard-boiled eggs-mayo-mustard-celery-lettuce,370,FALSE,4.22
+Vegan Buddha Bowl,Grilled chicken-romaine lettuce-Caesar dressing-wrap,970,FALSE,3.85
+Grilled Chicken Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,750,FALSE,7.75
+Vegetable Stir Fry,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,600,FALSE,9.43
+Roast Beef Sandwich,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,360,FALSE,1.03
+Chicken Caesar Wrap,Hard-boiled eggs-mayo-mustard-celery-lettuce,140,FALSE,3.99
+Grilled Chicken Salad,Lentils-carrots-celery-onions-garlic-tomato,350,FALSE,6.88
+Grilled Chicken Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,790,FALSE,4.84
+Vegetable Stir Fry,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,670,FALSE,7.98
+Vegan Quinoa Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,750,FALSE,8.13
+Vegan Lentil Soup,Grilled chicken-romaine lettuce-Caesar dressing-wrap,900,FALSE,3.42
+Grilled Chicken Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,760,FALSE,4.39
+Beef Chili,Hard-boiled eggs-mayo-mustard-celery-lettuce,570,FALSE,9.15
+Grilled Chicken Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,450,FALSE,6.70
+Grilled Chicken Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,850,FALSE,9.11
+Vegan Lentil Soup,Ground beef-tomatoes-beans-onions-chili powder,620,FALSE,9.30
+Vegan Lentil Soup,Grilled chicken-lettuce-tomato-cucumber-dressing,860,FALSE,9.77
+Chicken Caesar Wrap,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,990,FALSE,4.76
+Roast Beef Sandwich,Ground beef-tomatoes-beans-onions-chili powder,630,FALSE,8.97
+Chicken Caesar Wrap,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,470,FALSE,4.28
+Egg Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,340,FALSE,4.57
+Chicken Caesar Wrap,Grilled chicken-lettuce-tomato-cucumber-dressing,890,FALSE,3.09
+Chicken Caesar Wrap,Grilled chicken-romaine lettuce-Caesar dressing-wrap,870,FALSE,4.21
+Egg Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,710,FALSE,1.09
+Vegan Buddha Bowl,Grilled chicken-romaine lettuce-Caesar dressing-wrap,640,FALSE,7.74
+Egg Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,600,FALSE,5.44
+Vegan Lentil Soup,Grilled chicken-romaine lettuce-Caesar dressing-wrap,220,FALSE,7.73
+Vegetable Stir Fry,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,450,FALSE,2.76
+Vegan Lentil Soup,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,460,FALSE,2.29
+Beef Chili,Grilled chicken-romaine lettuce-Caesar dressing-wrap,680,FALSE,2.65
+Vegan Quinoa Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,680,FALSE,3.17
+Vegan Lentil Soup,Ground beef-tomatoes-beans-onions-chili powder,710,FALSE,4.60
+Vegan Lentil Soup,Ground beef-tomatoes-beans-onions-chili powder,430,FALSE,9.00
+Vegan Lentil Soup,Grilled chicken-romaine lettuce-Caesar dressing-wrap,170,FALSE,7.15
+Vegetable Stir Fry,Grilled chicken-lettuce-tomato-cucumber-dressing,360,FALSE,9.38
+Beef Chili,Grilled chicken-romaine lettuce-Caesar dressing-wrap,150,FALSE,0.59
+Vegetable Stir Fry,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,940,FALSE,7.09
+Vegan Lentil Soup,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,360,FALSE,5.33
+Beef Chili,Hard-boiled eggs-mayo-mustard-celery-lettuce,660,FALSE,7.03
+Beef Chili,Roast beef-whole grain bread-lettuce-tomato-mustard,620,FALSE,2.01
+Beef Chili,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,460,FALSE,8.95
+Chicken Caesar Wrap,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,670,FALSE,1.06
+Vegan Lentil Soup,Lentils-carrots-celery-onions-garlic-tomato,720,FALSE,3.13
+Beef Chili,Lentils-carrots-celery-onions-garlic-tomato,570,FALSE,1.06
+Vegan Buddha Bowl,Hard-boiled eggs-mayo-mustard-celery-lettuce,250,FALSE,1.58
+Grilled Chicken Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,510,FALSE,1.16
+Vegetable Stir Fry,Ground beef-tomatoes-beans-onions-chili powder,110,FALSE,2.17
+Egg Salad,Lentils-carrots-celery-onions-garlic-tomato,980,FALSE,3.48
+Vegan Lentil Soup,Grilled chicken-romaine lettuce-Caesar dressing-wrap,750,FALSE,5.52
+Beef Chili,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,620,FALSE,2.15
+Chicken Caesar Wrap,Hard-boiled eggs-mayo-mustard-celery-lettuce,810,FALSE,9.69
+Vegan Buddha Bowl,Grilled chicken-lettuce-tomato-cucumber-dressing,930,FALSE,2.85
+Vegan Quinoa Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,890,FALSE,0.61
+Beef Chili,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,520,FALSE,8.39
+Chicken Caesar Wrap,Ground beef-tomatoes-beans-onions-chili powder,370,FALSE,5.18
+Egg Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,950,FALSE,4.38
+Roast Beef Sandwich,Roast beef-whole grain bread-lettuce-tomato-mustard,870,FALSE,4.29
+Grilled Chicken Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,870,FALSE,3.48
+Vegan Lentil Soup,Grilled chicken-lettuce-tomato-cucumber-dressing,540,FALSE,6.59
+Egg Salad,Lentils-carrots-celery-onions-garlic-tomato,900,FALSE,7.21
+Vegetable Stir Fry,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,110,FALSE,4.38
+Beef Chili,Ground beef-tomatoes-beans-onions-chili powder,100,FALSE,0.46
+Egg Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,300,FALSE,7.71
+Grilled Chicken Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,860,FALSE,2.52
+Vegan Buddha Bowl,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,770,FALSE,3.33
+Vegan Quinoa Salad,Ground beef-tomatoes-beans-onions-chili powder,860,FALSE,1.54
+Vegan Quinoa Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,260,FALSE,3.35
+Egg Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,230,FALSE,9.37
+Vegan Lentil Soup,Roast beef-whole grain bread-lettuce-tomato-mustard,970,FALSE,5.10
+Grilled Chicken Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,490,FALSE,4.51
+Vegan Quinoa Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,720,FALSE,4.34
+Egg Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,810,FALSE,1.52
+Chicken Caesar Wrap,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,410,FALSE,8.64
+Egg Salad,Lentils-carrots-celery-onions-garlic-tomato,540,FALSE,1.67
+Chicken Caesar Wrap,Grilled chicken-romaine lettuce-Caesar dressing-wrap,810,FALSE,5.97
+Vegan Buddha Bowl,Grilled chicken-lettuce-tomato-cucumber-dressing,680,FALSE,5.91
+Chicken Caesar Wrap,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,390,FALSE,4.78
+Grilled Chicken Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,210,FALSE,6.51
+Grilled Chicken Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,970,FALSE,9.06
+Vegan Buddha Bowl,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,850,FALSE,8.43
+Grilled Chicken Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,640,FALSE,4.06
+Vegan Quinoa Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,530,FALSE,4.94
+Vegan Quinoa Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,340,FALSE,2.31
+Grilled Chicken Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,870,FALSE,2.81
+Roast Beef Sandwich,Grilled chicken-romaine lettuce-Caesar dressing-wrap,890,FALSE,3.74
+Beef Chili,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,230,FALSE,0.89
+Chicken Caesar Wrap,Grilled chicken-lettuce-tomato-cucumber-dressing,880,FALSE,8.21
+Vegan Quinoa Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,250,FALSE,6.54
+Vegan Quinoa Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,870,FALSE,1.62
+Roast Beef Sandwich,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,420,FALSE,0.42
+Vegan Quinoa Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,610,FALSE,2.75
+Beef Chili,Lentils-carrots-celery-onions-garlic-tomato,210,FALSE,1.34
+Chicken Caesar Wrap,Roast beef-whole grain bread-lettuce-tomato-mustard,180,FALSE,2.49
+Beef Chili,Ground beef-tomatoes-beans-onions-chili powder,170,FALSE,4.64
+Roast Beef Sandwich,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,910,FALSE,0.50
+Vegan Lentil Soup,Grilled chicken-lettuce-tomato-cucumber-dressing,640,FALSE,6.60
+Vegetable Stir Fry,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,130,FALSE,1.09
+Vegetable Stir Fry,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,270,FALSE,9.41
+Egg Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,740,FALSE,2.90
+Grilled Chicken Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,210,FALSE,1.13
+Vegan Lentil Soup,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,320,FALSE,1.64
+Egg Salad,Lentils-carrots-celery-onions-garlic-tomato,750,FALSE,8.80
+Egg Salad,Lentils-carrots-celery-onions-garlic-tomato,690,FALSE,7.16
+Vegan Quinoa Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,380,FALSE,2.39
+Egg Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,1000,FALSE,9.74
+Egg Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,970,FALSE,0.39
+Beef Chili,Grilled chicken-romaine lettuce-Caesar dressing-wrap,130,FALSE,7.42
+Chicken Caesar Wrap,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,840,FALSE,2.73
+Vegan Lentil Soup,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,350,FALSE,7.48
+Egg Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,100,FALSE,2.33
+Vegan Quinoa Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,740,FALSE,7.52
+Vegan Quinoa Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,760,FALSE,8.84
+Vegetable Stir Fry,Grilled chicken-lettuce-tomato-cucumber-dressing,940,FALSE,5.98
+Grilled Chicken Salad,Ground beef-tomatoes-beans-onions-chili powder,830,FALSE,6.35
+Beef Chili,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,410,FALSE,7.03
+Beef Chili,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,610,FALSE,4.09
+Grilled Chicken Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,710,FALSE,2.78
+Vegan Buddha Bowl,Grilled chicken-romaine lettuce-Caesar dressing-wrap,560,FALSE,6.25
+Grilled Chicken Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,970,FALSE,8.33
+Roast Beef Sandwich,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,770,FALSE,3.61
+Chicken Caesar Wrap,Grilled chicken-lettuce-tomato-cucumber-dressing,750,FALSE,3.13
+Grilled Chicken Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,1000,FALSE,8.20
+Roast Beef Sandwich,Hard-boiled eggs-mayo-mustard-celery-lettuce,590,FALSE,2.61
+Roast Beef Sandwich,Grilled chicken-romaine lettuce-Caesar dressing-wrap,200,FALSE,8.03
+Vegetable Stir Fry,Hard-boiled eggs-mayo-mustard-celery-lettuce,280,FALSE,5.55
+Vegan Lentil Soup,Ground beef-tomatoes-beans-onions-chili powder,290,FALSE,8.07
+Vegan Buddha Bowl,Roast beef-whole grain bread-lettuce-tomato-mustard,310,FALSE,7.02
+Beef Chili,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,900,FALSE,5.44
+Egg Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,740,FALSE,1.74
+Vegan Lentil Soup,Ground beef-tomatoes-beans-onions-chili powder,920,FALSE,0.90
+Vegan Quinoa Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,340,FALSE,3.48
+Egg Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,840,FALSE,0.34
+Grilled Chicken Salad,Ground beef-tomatoes-beans-onions-chili powder,320,FALSE,0.32
+Vegan Quinoa Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,490,FALSE,9.34
+Vegetable Stir Fry,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,420,FALSE,2.15
+Vegetable Stir Fry,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,140,FALSE,4.95
+Vegetable Stir Fry,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,210,FALSE,1.80
+Beef Chili,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,760,FALSE,1.25
+Vegan Quinoa Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,410,FALSE,8.86
+Vegan Quinoa Salad,Lentils-carrots-celery-onions-garlic-tomato,260,FALSE,0.54
+Vegan Buddha Bowl,Lentils-carrots-celery-onions-garlic-tomato,870,FALSE,9.62
+Chicken Caesar Wrap,Hard-boiled eggs-mayo-mustard-celery-lettuce,210,FALSE,1.42
+Egg Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,270,FALSE,6.43
+Vegan Buddha Bowl,Grilled chicken-lettuce-tomato-cucumber-dressing,830,FALSE,6.48
+Vegan Lentil Soup,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,290,FALSE,8.32
+Roast Beef Sandwich,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,610,FALSE,8.59
+Egg Salad,Ground beef-tomatoes-beans-onions-chili powder,150,FALSE,4.42
+Vegan Quinoa Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,560,FALSE,9.86
+Vegan Quinoa Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,190,FALSE,5.23
+Grilled Chicken Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,120,FALSE,7.22
+Roast Beef Sandwich,Lentils-carrots-celery-onions-garlic-tomato,470,FALSE,0.32
+Vegan Lentil Soup,Hard-boiled eggs-mayo-mustard-celery-lettuce,720,FALSE,1.57
+Beef Chili,Lentils-carrots-celery-onions-garlic-tomato,890,FALSE,6.50
+Grilled Chicken Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,890,FALSE,2.59
+Roast Beef Sandwich,Grilled chicken-romaine lettuce-Caesar dressing-wrap,870,FALSE,8.13
+Beef Chili,Grilled chicken-romaine lettuce-Caesar dressing-wrap,610,FALSE,3.54
+Beef Chili,Lentils-carrots-celery-onions-garlic-tomato,320,FALSE,1.90
+Vegan Buddha Bowl,Lentils-carrots-celery-onions-garlic-tomato,250,FALSE,9.12
+Vegetable Stir Fry,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,850,FALSE,6.80
+Egg Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,640,FALSE,7.40
+Vegan Lentil Soup,Roast beef-whole grain bread-lettuce-tomato-mustard,340,FALSE,5.12
+Vegan Lentil Soup,Grilled chicken-lettuce-tomato-cucumber-dressing,900,FALSE,4.45
+Vegan Lentil Soup,Grilled chicken-romaine lettuce-Caesar dressing-wrap,660,FALSE,2.14
+Roast Beef Sandwich,Grilled chicken-romaine lettuce-Caesar dressing-wrap,230,FALSE,7.01
+Vegetable Stir Fry,Hard-boiled eggs-mayo-mustard-celery-lettuce,540,FALSE,8.19
+Grilled Chicken Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,880,FALSE,5.69
+Beef Chili,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,550,FALSE,0.23
+Vegan Lentil Soup,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,510,FALSE,6.20
+Egg Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,750,FALSE,9.17
+Grilled Chicken Salad,Lentils-carrots-celery-onions-garlic-tomato,260,FALSE,0.49
+Chicken Caesar Wrap,Lentils-carrots-celery-onions-garlic-tomato,840,FALSE,10.00
+Roast Beef Sandwich,Hard-boiled eggs-mayo-mustard-celery-lettuce,190,FALSE,7.98
+Chicken Caesar Wrap,Grilled chicken-romaine lettuce-Caesar dressing-wrap,790,FALSE,1.88
+Roast Beef Sandwich,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,300,FALSE,2.46
+Vegan Lentil Soup,Ground beef-tomatoes-beans-onions-chili powder,350,FALSE,4.83
+Vegan Lentil Soup,Ground beef-tomatoes-beans-onions-chili powder,880,FALSE,3.75
+Vegan Buddha Bowl,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,840,FALSE,5.56
+Grilled Chicken Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,550,FALSE,9.54
+Grilled Chicken Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,310,FALSE,0.95
+Vegan Lentil Soup,Hard-boiled eggs-mayo-mustard-celery-lettuce,530,FALSE,9.09
+Roast Beef Sandwich,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,730,FALSE,9.90
+Grilled Chicken Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,690,FALSE,4.45
+Roast Beef Sandwich,Grilled chicken-lettuce-tomato-cucumber-dressing,270,FALSE,0.84
+Chicken Caesar Wrap,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,960,FALSE,7.90
+Chicken Caesar Wrap,Hard-boiled eggs-mayo-mustard-celery-lettuce,710,FALSE,7.87
+Vegan Buddha Bowl,Grilled chicken-lettuce-tomato-cucumber-dressing,650,FALSE,8.09
+Egg Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,890,FALSE,5.54
+Roast Beef Sandwich,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,410,FALSE,8.13
+Grilled Chicken Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,530,FALSE,5.07
+Beef Chili,Hard-boiled eggs-mayo-mustard-celery-lettuce,150,FALSE,0.61
+Beef Chili,Roast beef-whole grain bread-lettuce-tomato-mustard,900,FALSE,8.80
+Grilled Chicken Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,280,FALSE,0.37
+Roast Beef Sandwich,Grilled chicken-lettuce-tomato-cucumber-dressing,740,FALSE,8.78
+Roast Beef Sandwich,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,820,FALSE,9.75
+Grilled Chicken Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,440,FALSE,9.33
+Vegan Buddha Bowl,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,860,FALSE,5.38
+Vegan Lentil Soup,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,630,FALSE,4.60
+Beef Chili,Ground beef-tomatoes-beans-onions-chili powder,660,FALSE,2.93
+Roast Beef Sandwich,Grilled chicken-romaine lettuce-Caesar dressing-wrap,210,FALSE,4.98
+Grilled Chicken Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,670,FALSE,7.68
+Vegetable Stir Fry,Roast beef-whole grain bread-lettuce-tomato-mustard,340,FALSE,1.43
+Chicken Caesar Wrap,Ground beef-tomatoes-beans-onions-chili powder,330,FALSE,7.74
+Grilled Chicken Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,170,FALSE,3.92
+Egg Salad,Lentils-carrots-celery-onions-garlic-tomato,440,FALSE,0.25
+Vegan Quinoa Salad,Lentils-carrots-celery-onions-garlic-tomato,440,FALSE,7.67
+Egg Salad,Ground beef-tomatoes-beans-onions-chili powder,390,FALSE,5.27
+Vegan Lentil Soup,Grilled chicken-lettuce-tomato-cucumber-dressing,130,FALSE,3.50
+Vegan Buddha Bowl,Hard-boiled eggs-mayo-mustard-celery-lettuce,580,FALSE,9.61
+Vegan Lentil Soup,Grilled chicken-romaine lettuce-Caesar dressing-wrap,150,FALSE,3.27
+Vegan Buddha Bowl,Hard-boiled eggs-mayo-mustard-celery-lettuce,430,FALSE,2.09
+Beef Chili,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,580,FALSE,7.15
+Vegan Quinoa Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,950,FALSE,1.65
+Roast Beef Sandwich,Hard-boiled eggs-mayo-mustard-celery-lettuce,190,FALSE,2.03
+Grilled Chicken Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,750,FALSE,9.83
+Vegan Quinoa Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,590,FALSE,3.10
+Chicken Caesar Wrap,Hard-boiled eggs-mayo-mustard-celery-lettuce,110,FALSE,5.78
+Vegan Quinoa Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,430,FALSE,8.51
+Beef Chili,Ground beef-tomatoes-beans-onions-chili powder,820,FALSE,5.36
+Grilled Chicken Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,900,FALSE,6.62
+Roast Beef Sandwich,Hard-boiled eggs-mayo-mustard-celery-lettuce,290,FALSE,9.27
+Chicken Caesar Wrap,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,830,FALSE,1.98
+Vegan Quinoa Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,570,FALSE,1.27
+Chicken Caesar Wrap,Ground beef-tomatoes-beans-onions-chili powder,240,FALSE,9.10
+Grilled Chicken Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,720,FALSE,4.00
+Vegan Buddha Bowl,Grilled chicken-lettuce-tomato-cucumber-dressing,330,FALSE,7.79
+Chicken Caesar Wrap,Lentils-carrots-celery-onions-garlic-tomato,900,FALSE,3.31
+Vegan Quinoa Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,870,FALSE,3.27
+Vegetable Stir Fry,Lentils-carrots-celery-onions-garlic-tomato,620,FALSE,5.28
+Beef Chili,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,290,FALSE,2.60
+Egg Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,130,FALSE,1.22
+Roast Beef Sandwich,Grilled chicken-romaine lettuce-Caesar dressing-wrap,310,FALSE,3.52
+Beef Chili,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,460,FALSE,5.83
+Roast Beef Sandwich,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,340,FALSE,6.34
+Chicken Caesar Wrap,Ground beef-tomatoes-beans-onions-chili powder,700,FALSE,9.62
+Egg Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,930,FALSE,4.48
+Chicken Caesar Wrap,Grilled chicken-romaine lettuce-Caesar dressing-wrap,550,FALSE,8.51
+Egg Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,610,FALSE,7.65
+Vegetable Stir Fry,Grilled chicken-lettuce-tomato-cucumber-dressing,590,FALSE,8.46
+Egg Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,260,FALSE,8.94
+Vegan Lentil Soup,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,920,FALSE,8.06
+Grilled Chicken Salad,Lentils-carrots-celery-onions-garlic-tomato,590,FALSE,4.11
+Grilled Chicken Salad,Ground beef-tomatoes-beans-onions-chili powder,460,FALSE,5.90
+Grilled Chicken Salad,Lentils-carrots-celery-onions-garlic-tomato,920,FALSE,8.16
+Chicken Caesar Wrap,Lentils-carrots-celery-onions-garlic-tomato,840,FALSE,5.78
+Vegan Lentil Soup,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,910,FALSE,0.95
+Vegan Quinoa Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,140,FALSE,2.33
+Beef Chili,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,320,FALSE,4.02
+Vegan Buddha Bowl,Ground beef-tomatoes-beans-onions-chili powder,740,FALSE,0.63
+Vegan Buddha Bowl,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,260,FALSE,4.02
+Roast Beef Sandwich,Grilled chicken-romaine lettuce-Caesar dressing-wrap,840,FALSE,1.05
+Roast Beef Sandwich,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,410,FALSE,2.33
+Vegan Lentil Soup,Roast beef-whole grain bread-lettuce-tomato-mustard,840,FALSE,7.32
+Vegetable Stir Fry,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,420,FALSE,3.75
+Vegan Lentil Soup,Roast beef-whole grain bread-lettuce-tomato-mustard,260,FALSE,9.66
+Vegan Lentil Soup,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,150,FALSE,1.26
+Grilled Chicken Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,680,FALSE,4.43
+Vegan Quinoa Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,360,FALSE,7.05
+Vegan Quinoa Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,150,FALSE,6.48
+Chicken Caesar Wrap,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,170,FALSE,6.82
+Egg Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,270,FALSE,5.91
+Vegetable Stir Fry,Lentils-carrots-celery-onions-garlic-tomato,600,FALSE,2.80
+Vegan Quinoa Salad,Lentils-carrots-celery-onions-garlic-tomato,120,FALSE,7.91
+Grilled Chicken Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,850,FALSE,9.97
+Beef Chili,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,870,FALSE,4.84
+Vegan Buddha Bowl,Hard-boiled eggs-mayo-mustard-celery-lettuce,130,FALSE,5.29
+Vegan Quinoa Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,300,FALSE,5.94
+Grilled Chicken Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,150,FALSE,6.35
+Vegan Buddha Bowl,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,380,FALSE,1.84
+Beef Chili,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,920,FALSE,6.69
+Vegan Lentil Soup,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,250,FALSE,9.69
+Beef Chili,Hard-boiled eggs-mayo-mustard-celery-lettuce,910,FALSE,9.93
+Vegan Lentil Soup,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,270,FALSE,9.20
+Vegan Buddha Bowl,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,760,FALSE,6.42
+Roast Beef Sandwich,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,140,FALSE,1.61
+Vegetable Stir Fry,Grilled chicken-romaine lettuce-Caesar dressing-wrap,340,FALSE,6.84
+Vegan Lentil Soup,Grilled chicken-romaine lettuce-Caesar dressing-wrap,360,FALSE,8.21
+Roast Beef Sandwich,Grilled chicken-lettuce-tomato-cucumber-dressing,570,FALSE,0.15
+Vegan Quinoa Salad,Ground beef-tomatoes-beans-onions-chili powder,400,FALSE,6.31
+Roast Beef Sandwich,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,330,FALSE,3.86
+Vegan Buddha Bowl,Ground beef-tomatoes-beans-onions-chili powder,350,FALSE,9.25
+Beef Chili,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,770,FALSE,6.02
+Egg Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,890,FALSE,0.24
+Vegan Quinoa Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,390,FALSE,9.12
+Beef Chili,Lentils-carrots-celery-onions-garlic-tomato,930,FALSE,3.67
+Beef Chili,Grilled chicken-romaine lettuce-Caesar dressing-wrap,370,FALSE,8.90
+Roast Beef Sandwich,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,360,FALSE,0.68
+Chicken Caesar Wrap,Grilled chicken-romaine lettuce-Caesar dressing-wrap,120,FALSE,9.06
+Vegan Lentil Soup,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,710,FALSE,1.55
+Vegan Buddha Bowl,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,610,FALSE,6.12
+Vegetable Stir Fry,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,310,FALSE,5.92
+Chicken Caesar Wrap,Hard-boiled eggs-mayo-mustard-celery-lettuce,180,FALSE,6.74
+Vegan Quinoa Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,370,FALSE,2.14
+Chicken Caesar Wrap,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,930,FALSE,9.75
+Chicken Caesar Wrap,Grilled chicken-lettuce-tomato-cucumber-dressing,970,FALSE,2.10
+Vegetable Stir Fry,Ground beef-tomatoes-beans-onions-chili powder,990,FALSE,1.31
+Beef Chili,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,990,FALSE,2.01
+Vegan Lentil Soup,Grilled chicken-lettuce-tomato-cucumber-dressing,710,FALSE,1.19
+Egg Salad,Lentils-carrots-celery-onions-garlic-tomato,610,FALSE,8.27
+Egg Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,400,FALSE,7.40
+Grilled Chicken Salad,Ground beef-tomatoes-beans-onions-chili powder,890,FALSE,1.63
+Vegetable Stir Fry,Hard-boiled eggs-mayo-mustard-celery-lettuce,210,FALSE,3.41
+Vegan Lentil Soup,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,950,FALSE,8.33
+Vegan Quinoa Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,810,FALSE,6.57
+Vegetable Stir Fry,Lentils-carrots-celery-onions-garlic-tomato,820,FALSE,2.63
+Vegetable Stir Fry,Grilled chicken-romaine lettuce-Caesar dressing-wrap,830,FALSE,5.28
+Vegetable Stir Fry,Lentils-carrots-celery-onions-garlic-tomato,880,FALSE,7.67
+Beef Chili,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,460,FALSE,9.38
+Vegan Lentil Soup,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,160,FALSE,6.66
+Vegan Lentil Soup,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,620,FALSE,9.94
+Grilled Chicken Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,790,FALSE,2.38
+Vegan Lentil Soup,Grilled chicken-romaine lettuce-Caesar dressing-wrap,520,FALSE,8.43
+Vegan Quinoa Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,740,FALSE,1.43
+Beef Chili,Ground beef-tomatoes-beans-onions-chili powder,750,FALSE,6.37
+Grilled Chicken Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,320,FALSE,1.31
+Vegetable Stir Fry,Lentils-carrots-celery-onions-garlic-tomato,300,FALSE,7.57
+Vegetable Stir Fry,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,890,FALSE,1.45
+Roast Beef Sandwich,Ground beef-tomatoes-beans-onions-chili powder,850,FALSE,9.15
+Chicken Caesar Wrap,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,750,FALSE,4.48
+Vegan Lentil Soup,Grilled chicken-romaine lettuce-Caesar dressing-wrap,250,FALSE,1.78
+Beef Chili,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,120,FALSE,8.70
+Vegetable Stir Fry,Roast beef-whole grain bread-lettuce-tomato-mustard,720,FALSE,6.50
+Chicken Caesar Wrap,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,950,FALSE,6.67
+Grilled Chicken Salad,Ground beef-tomatoes-beans-onions-chili powder,480,FALSE,5.66
+Grilled Chicken Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,120,FALSE,3.32
+Vegan Quinoa Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,570,FALSE,0.81
+Vegan Lentil Soup,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,120,FALSE,1.72
+Egg Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,460,FALSE,5.80
+Vegan Lentil Soup,Lentils-carrots-celery-onions-garlic-tomato,700,FALSE,5.64
+Roast Beef Sandwich,Roast beef-whole grain bread-lettuce-tomato-mustard,460,FALSE,8.96
+Beef Chili,Hard-boiled eggs-mayo-mustard-celery-lettuce,120,FALSE,1.14
+Vegan Lentil Soup,Lentils-carrots-celery-onions-garlic-tomato,990,FALSE,3.76
+Grilled Chicken Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,560,FALSE,8.53
+Grilled Chicken Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,800,FALSE,2.17
+Vegan Buddha Bowl,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,650,FALSE,0.67
+Vegan Buddha Bowl,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,260,FALSE,1.80
+Vegan Buddha Bowl,Ground beef-tomatoes-beans-onions-chili powder,580,FALSE,3.49
+Vegan Buddha Bowl,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,750,FALSE,6.09
+Chicken Caesar Wrap,Hard-boiled eggs-mayo-mustard-celery-lettuce,810,FALSE,9.58
+Vegan Quinoa Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,160,FALSE,3.37
+Vegan Quinoa Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,740,FALSE,4.91
+Grilled Chicken Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,330,FALSE,2.59
+Egg Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,870,FALSE,0.69
+Egg Salad,Ground beef-tomatoes-beans-onions-chili powder,790,FALSE,3.71
+Vegan Buddha Bowl,Ground beef-tomatoes-beans-onions-chili powder,400,FALSE,4.04
+Vegetable Stir Fry,Grilled chicken-lettuce-tomato-cucumber-dressing,740,FALSE,3.80
+Vegan Lentil Soup,Lentils-carrots-celery-onions-garlic-tomato,860,FALSE,3.36
+Grilled Chicken Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,820,FALSE,3.69
+Vegetable Stir Fry,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,420,FALSE,8.67
+Roast Beef Sandwich,Roast beef-whole grain bread-lettuce-tomato-mustard,610,FALSE,7.63
+Beef Chili,Ground beef-tomatoes-beans-onions-chili powder,170,FALSE,7.94
+Egg Salad,Ground beef-tomatoes-beans-onions-chili powder,210,FALSE,2.01
+Vegan Quinoa Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,540,FALSE,4.92
+Beef Chili,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,820,FALSE,1.48
+Vegan Quinoa Salad,Lentils-carrots-celery-onions-garlic-tomato,250,FALSE,7.64
+Grilled Chicken Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,960,FALSE,6.29
+Chicken Caesar Wrap,Grilled chicken-romaine lettuce-Caesar dressing-wrap,170,FALSE,4.56
+Vegan Lentil Soup,Ground beef-tomatoes-beans-onions-chili powder,750,FALSE,7.54
+Vegan Quinoa Salad,Ground beef-tomatoes-beans-onions-chili powder,690,FALSE,3.10
+Vegan Lentil Soup,Hard-boiled eggs-mayo-mustard-celery-lettuce,140,FALSE,3.93
+Vegan Quinoa Salad,Ground beef-tomatoes-beans-onions-chili powder,880,FALSE,5.37
+Vegan Buddha Bowl,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,990,FALSE,8.47
+Beef Chili,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,800,FALSE,5.68
+Vegan Lentil Soup,Grilled chicken-romaine lettuce-Caesar dressing-wrap,360,FALSE,7.22
+Vegan Lentil Soup,Ground beef-tomatoes-beans-onions-chili powder,320,FALSE,1.85
+Beef Chili,Roast beef-whole grain bread-lettuce-tomato-mustard,200,FALSE,7.58
+Vegan Lentil Soup,Hard-boiled eggs-mayo-mustard-celery-lettuce,810,FALSE,7.67
+Egg Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,620,FALSE,5.42
+Roast Beef Sandwich,Grilled chicken-romaine lettuce-Caesar dressing-wrap,270,FALSE,0.92
+Vegan Quinoa Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,590,FALSE,0.61
+Roast Beef Sandwich,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,650,FALSE,1.68
+Roast Beef Sandwich,Lentils-carrots-celery-onions-garlic-tomato,570,FALSE,8.41
+Vegan Quinoa Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,450,FALSE,0.37
+Chicken Caesar Wrap,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,190,FALSE,9.93
+Beef Chili,Roast beef-whole grain bread-lettuce-tomato-mustard,660,FALSE,6.79
+Vegan Buddha Bowl,Hard-boiled eggs-mayo-mustard-celery-lettuce,480,FALSE,2.99
+Egg Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,640,FALSE,7.69
+Vegetable Stir Fry,Grilled chicken-romaine lettuce-Caesar dressing-wrap,470,FALSE,3.14
+Vegan Lentil Soup,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,960,FALSE,6.05
+Egg Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,370,FALSE,2.57
+Vegetable Stir Fry,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,410,FALSE,3.93
+Roast Beef Sandwich,Lentils-carrots-celery-onions-garlic-tomato,990,FALSE,9.65
+Egg Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,290,FALSE,8.62
+Chicken Caesar Wrap,Lentils-carrots-celery-onions-garlic-tomato,310,FALSE,5.93
+Roast Beef Sandwich,Hard-boiled eggs-mayo-mustard-celery-lettuce,580,FALSE,9.70
+Beef Chili,Grilled chicken-lettuce-tomato-cucumber-dressing,590,FALSE,8.45
+Vegan Buddha Bowl,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,470,FALSE,9.64
+Vegan Lentil Soup,Grilled chicken-romaine lettuce-Caesar dressing-wrap,940,FALSE,8.39
+Vegan Buddha Bowl,Roast beef-whole grain bread-lettuce-tomato-mustard,120,FALSE,0.54
+Vegan Quinoa Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,340,FALSE,9.57
+Vegetable Stir Fry,Lentils-carrots-celery-onions-garlic-tomato,350,FALSE,3.09
+Grilled Chicken Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,180,FALSE,1.76
+Chicken Caesar Wrap,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,150,FALSE,5.02
+Roast Beef Sandwich,Ground beef-tomatoes-beans-onions-chili powder,670,FALSE,9.95
+Roast Beef Sandwich,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,310,FALSE,5.71
+Vegan Lentil Soup,Hard-boiled eggs-mayo-mustard-celery-lettuce,460,FALSE,5.25
+Chicken Caesar Wrap,Grilled chicken-romaine lettuce-Caesar dressing-wrap,410,FALSE,1.50
+Egg Salad,Ground beef-tomatoes-beans-onions-chili powder,420,FALSE,1.48
+Chicken Caesar Wrap,Grilled chicken-lettuce-tomato-cucumber-dressing,960,FALSE,5.09
+Vegan Lentil Soup,Grilled chicken-romaine lettuce-Caesar dressing-wrap,530,FALSE,0.65
+Vegetable Stir Fry,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,340,FALSE,9.07
+Vegetable Stir Fry,Grilled chicken-romaine lettuce-Caesar dressing-wrap,120,FALSE,5.54
+Vegan Buddha Bowl,Roast beef-whole grain bread-lettuce-tomato-mustard,690,FALSE,1.37
+Vegan Quinoa Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,150,FALSE,9.22
+Beef Chili,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,770,FALSE,4.05
+Vegan Buddha Bowl,Lentils-carrots-celery-onions-garlic-tomato,120,FALSE,3.48
+Egg Salad,Lentils-carrots-celery-onions-garlic-tomato,950,FALSE,9.94
+Egg Salad,Lentils-carrots-celery-onions-garlic-tomato,620,FALSE,6.60
+Egg Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,260,FALSE,5.79
+Chicken Caesar Wrap,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,990,FALSE,7.00
+Vegan Lentil Soup,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,380,FALSE,2.06
+Roast Beef Sandwich,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,120,FALSE,4.65
+Vegetable Stir Fry,Lentils-carrots-celery-onions-garlic-tomato,440,FALSE,4.57
+Egg Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,420,FALSE,5.97
+Grilled Chicken Salad,Lentils-carrots-celery-onions-garlic-tomato,860,FALSE,1.20
+Chicken Caesar Wrap,Ground beef-tomatoes-beans-onions-chili powder,890,FALSE,6.06
+Vegan Buddha Bowl,Lentils-carrots-celery-onions-garlic-tomato,710,FALSE,0.21
+Vegan Lentil Soup,Roast beef-whole grain bread-lettuce-tomato-mustard,350,FALSE,3.68
+Roast Beef Sandwich,Roast beef-whole grain bread-lettuce-tomato-mustard,150,FALSE,5.88
+Beef Chili,Hard-boiled eggs-mayo-mustard-celery-lettuce,290,FALSE,8.04
+Vegetable Stir Fry,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,900,FALSE,1.80
+Beef Chili,Roast beef-whole grain bread-lettuce-tomato-mustard,110,FALSE,0.99
+Vegetable Stir Fry,Roast beef-whole grain bread-lettuce-tomato-mustard,410,FALSE,3.60
+Vegan Lentil Soup,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,210,FALSE,6.88
+Beef Chili,Ground beef-tomatoes-beans-onions-chili powder,980,FALSE,8.00
+Roast Beef Sandwich,Ground beef-tomatoes-beans-onions-chili powder,900,FALSE,1.92
+Grilled Chicken Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,780,FALSE,6.46
+Vegan Buddha Bowl,Grilled chicken-romaine lettuce-Caesar dressing-wrap,480,FALSE,3.42
+Roast Beef Sandwich,Lentils-carrots-celery-onions-garlic-tomato,280,FALSE,2.41
+Vegan Buddha Bowl,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,130,FALSE,2.45
+Vegan Buddha Bowl,Grilled chicken-romaine lettuce-Caesar dressing-wrap,810,FALSE,6.28
+Chicken Caesar Wrap,Hard-boiled eggs-mayo-mustard-celery-lettuce,370,FALSE,3.16
+Vegetable Stir Fry,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,970,FALSE,0.55
+Vegan Quinoa Salad,Ground beef-tomatoes-beans-onions-chili powder,540,FALSE,3.58
+Vegan Quinoa Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,790,FALSE,5.92
+Egg Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,100,FALSE,1.20
+Vegan Buddha Bowl,Ground beef-tomatoes-beans-onions-chili powder,160,FALSE,3.23
+Chicken Caesar Wrap,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,550,FALSE,7.10
+Vegan Quinoa Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,230,FALSE,3.98
+Vegan Lentil Soup,Hard-boiled eggs-mayo-mustard-celery-lettuce,190,FALSE,3.99
+Grilled Chicken Salad,Ground beef-tomatoes-beans-onions-chili powder,400,FALSE,6.19
+Roast Beef Sandwich,Ground beef-tomatoes-beans-onions-chili powder,750,FALSE,9.96
+Chicken Caesar Wrap,Grilled chicken-romaine lettuce-Caesar dressing-wrap,410,FALSE,1.91
+Vegan Lentil Soup,Lentils-carrots-celery-onions-garlic-tomato,120,FALSE,4.42
+Vegetable Stir Fry,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,1000,FALSE,7.33
+Grilled Chicken Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,710,FALSE,8.53
+Vegetable Stir Fry,Grilled chicken-lettuce-tomato-cucumber-dressing,550,FALSE,6.45
+Grilled Chicken Salad,Lentils-carrots-celery-onions-garlic-tomato,180,FALSE,6.57
+Grilled Chicken Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,210,FALSE,1.02
+Chicken Caesar Wrap,Roast beef-whole grain bread-lettuce-tomato-mustard,560,FALSE,9.68
+Beef Chili,Grilled chicken-lettuce-tomato-cucumber-dressing,980,FALSE,5.01
+Vegetable Stir Fry,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,890,FALSE,9.49
+Vegan Quinoa Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,860,FALSE,3.55
+Vegan Buddha Bowl,Hard-boiled eggs-mayo-mustard-celery-lettuce,730,FALSE,9.20
+Vegan Buddha Bowl,Hard-boiled eggs-mayo-mustard-celery-lettuce,610,FALSE,8.69
+Vegan Quinoa Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,610,FALSE,6.78
+Vegan Buddha Bowl,Hard-boiled eggs-mayo-mustard-celery-lettuce,540,FALSE,5.13
+Vegetable Stir Fry,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,1000,FALSE,1.68
+Vegan Lentil Soup,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,520,FALSE,5.63
+Vegan Buddha Bowl,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,830,FALSE,0.44
+Vegan Quinoa Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,490,FALSE,1.46
+Vegan Quinoa Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,750,FALSE,7.85
+Vegan Buddha Bowl,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,780,FALSE,7.30
+Vegetable Stir Fry,Lentils-carrots-celery-onions-garlic-tomato,740,FALSE,2.58
+Chicken Caesar Wrap,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,540,FALSE,2.47
+Vegan Quinoa Salad,Ground beef-tomatoes-beans-onions-chili powder,860,FALSE,6.98
+Grilled Chicken Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,570,FALSE,1.74
+Egg Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,870,FALSE,8.56
+Vegan Quinoa Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,770,FALSE,6.39
+Roast Beef Sandwich,Roast beef-whole grain bread-lettuce-tomato-mustard,160,FALSE,2.09
+Chicken Caesar Wrap,Grilled chicken-lettuce-tomato-cucumber-dressing,940,FALSE,0.60
+Vegan Quinoa Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,700,FALSE,8.44
+Grilled Chicken Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,450,FALSE,5.28
+Roast Beef Sandwich,Grilled chicken-romaine lettuce-Caesar dressing-wrap,940,FALSE,5.25
+Roast Beef Sandwich,Grilled chicken-lettuce-tomato-cucumber-dressing,740,FALSE,1.43
+Vegan Lentil Soup,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,130,FALSE,1.62
+Vegan Buddha Bowl,Ground beef-tomatoes-beans-onions-chili powder,530,FALSE,1.57
+Chicken Caesar Wrap,Grilled chicken-romaine lettuce-Caesar dressing-wrap,130,FALSE,8.68
+Egg Salad,Lentils-carrots-celery-onions-garlic-tomato,770,FALSE,2.69
+Vegan Quinoa Salad,Grilled chicken-lettuce-tomato-cucumber-dressing,570,FALSE,1.09
+Egg Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,740,FALSE,6.37
+Egg Salad,Lentils-carrots-celery-onions-garlic-tomato,680,FALSE,4.98
+Vegan Lentil Soup,Roast beef-whole grain bread-lettuce-tomato-mustard,370,FALSE,6.62
+Roast Beef Sandwich,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,940,FALSE,9.54
+Egg Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,430,FALSE,6.98
+Beef Chili,Grilled chicken-lettuce-tomato-cucumber-dressing,200,FALSE,6.31
+Roast Beef Sandwich,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,450,FALSE,4.16
+Roast Beef Sandwich,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,450,FALSE,9.81
+Vegan Quinoa Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,890,FALSE,5.02
+Chicken Caesar Wrap,Grilled chicken-lettuce-tomato-cucumber-dressing,430,FALSE,8.22
+Beef Chili,Hard-boiled eggs-mayo-mustard-celery-lettuce,550,FALSE,7.10
+Beef Chili,Hard-boiled eggs-mayo-mustard-celery-lettuce,930,FALSE,5.55
+Vegetable Stir Fry,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,330,FALSE,6.89
+Beef Chili,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,920,FALSE,8.26
+Roast Beef Sandwich,Grilled chicken-romaine lettuce-Caesar dressing-wrap,890,FALSE,4.70
+Vegan Quinoa Salad,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,170,FALSE,6.57
+Grilled Chicken Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,580,FALSE,4.86
+Vegan Lentil Soup,Grilled chicken-romaine lettuce-Caesar dressing-wrap,960,FALSE,3.64
+Roast Beef Sandwich,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,720,FALSE,6.12
+Vegan Buddha Bowl,Roast beef-whole grain bread-lettuce-tomato-mustard,690,FALSE,4.89
+Vegan Quinoa Salad,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,890,FALSE,0.84
+Vegan Quinoa Salad,Grilled chicken-romaine lettuce-Caesar dressing-wrap,200,FALSE,4.83
+Egg Salad,Ground beef-tomatoes-beans-onions-chili powder,500,FALSE,5.23
+Vegan Lentil Soup,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,130,FALSE,4.18
+Vegan Buddha Bowl,Grilled chicken-lettuce-tomato-cucumber-dressing,700,FALSE,4.61
+Roast Beef Sandwich,Hard-boiled eggs-mayo-mustard-celery-lettuce,170,FALSE,3.97
+Beef Chili,Roast beef-whole grain bread-lettuce-tomato-mustard,150,FALSE,1.58
+Chicken Caesar Wrap,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,770,FALSE,5.02
+Vegan Buddha Bowl,Grilled chicken-lettuce-tomato-cucumber-dressing,870,FALSE,4.91
+Grilled Chicken Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,250,FALSE,8.00
+Egg Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,640,FALSE,9.73
+Vegan Quinoa Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,540,FALSE,2.92
+Grilled Chicken Salad,Hard-boiled eggs-mayo-mustard-celery-lettuce,950,FALSE,4.88
+Egg Salad,Quinoa-avocado-chickpeas-kale-sweet potatoes-tahini,920,FALSE,6.47
+Grilled Chicken Salad,Ground beef-tomatoes-beans-onions-chili powder,670,FALSE,9.26
+Vegan Buddha Bowl,Broccoli-carrots-bell peppers-tofu-soy sauce-ginger,450,FALSE,4.36
+Beef Chili,Quinoa-spinach-cucumber-tomato-chickpeas-olive oil,520,FALSE,3.01
+Vegan Buddha Bowl,Grilled chicken-romaine lettuce-Caesar dressing-wrap,510,FALSE,3.01
+Vegan Quinoa Salad,Ground beef-tomatoes-beans-onions-chili powder,790,FALSE,9.63
+Vegan Quinoa Salad,Roast beef-whole grain bread-lettuce-tomato-mustard,160,FALSE,8.52
+Vegetable Stir Fry,Grilled chicken-lettuce-tomato-cucumber-dressing,300,FALSE,6.93
+Chicken Caesar Wrap,Grilled chicken-lettuce-tomato-cucumber-dressing,440,FALSE,7.64
+Chicken Caesar Wrap,Grilled chicken-lettuce-tomato-cucumber-dressing,390,FALSE,7.05
+Egg Salad,Ground beef-tomatoes-beans-onions-chili powder,890,FALSE,8.56
+Chicken Caesar Wrap,Grilled chicken-lettuce-tomato-cucumber-dressing,170,FALSE,0.23
+Beef Chili,Grilled chicken-romaine lettuce-Caesar dressing-wrap,310,FALSE,4.51
+Beef Chili,Hard-boiled eggs-mayo-mustard-celery-lettuce,820,FALSE,5.68
